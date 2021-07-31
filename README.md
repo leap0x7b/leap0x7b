@@ -13,7 +13,7 @@ I mostly develop in these programming languages
 - [Termux Plus](/leapofazzam123/termux-plus) - Extra packages for Termux
 - [Amogus Lang](/leapofazzam123/amogus-lang) - A very sussy esoteric language
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
 ![Leap of Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leapofazzam123&show_icons=true)
 
 <!--
