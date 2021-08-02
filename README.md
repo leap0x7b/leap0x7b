@@ -9,9 +9,9 @@ I mostly develop in these programming languages
 - Shell script
 
 ### Projects I'm working on
-- [FaruOS](/leapofazzam123/faruos) - A simple operating system, made with stivale2 and limine
-- [Termux Plus](/leapofazzam123/termux-plus) - Extra packages for Termux
-- [Amogus Lang](/leapofazzam123/amogus-lang) - A very sussy esoteric language
+- [FaruOS](https://github.com/leapofazzam123/faruos) - A simple operating system, made with stivale2 and limine
+- [Termux Plus](https://github.com/leapofazzam123/termux-plus) - Extra packages for Termux
+- [Amogus Lang](https://github.com/leapofazzam123/amogus-lang) - A very sussy esoteric language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
 ![Leap of Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leapofazzam123&show_icons=true)
