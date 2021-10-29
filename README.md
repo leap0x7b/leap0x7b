@@ -16,6 +16,10 @@ I mostly develop in these programming languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
 ![Leap of Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leapofazzam123&show_icons=true)
 
+
+---
+also, fuck nft
+
 <!--
 **LeapofAzzam-backup/LeapofAzzam-backup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
