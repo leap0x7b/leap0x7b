@@ -15,12 +15,8 @@ I mostly develop in these programming languages
 
 ### <div align="center">Projects I'm working on</div>
 - [FaruOS](https://github.com/leapofazzam123/faruos) - A simple operating system, made with stivale2 and limine
-- [Termux Plus](https://github.com/leapofazzam123/termux-plus) - Extra packages for Termux
-- [Amogus Lang](https://github.com/leapofazzam123/amogus-lang) - A very sussy esoteric language
+- [XeptoBoot](https://github.com/leapofazzam123/xeptoboot) - A small 2-staged bootloader written in Zig
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
 ![Leap of Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leapofazzam123&show_icons=true)
 
-
----
-also, fuck nft
