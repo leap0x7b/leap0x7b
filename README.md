@@ -8,10 +8,10 @@ I'm Leap of Azzam, usually called as Leap. I'm a (meme) YouTuber and a hobby dev
 
 ### <div align="center">Programming languages</div>
 I mostly develop in these programming languages
-- Python
+- Rust
 - C/C++
+- Python
 - JavaScript
-- Shell script
 
 ### <div align="center">Projects I'm working on</div>
 - [FaruOS](https://github.com/leapofazzam123/faruos) - A simple operating system, made with stivale2 and limine
