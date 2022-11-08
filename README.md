@@ -1,22 +1,20 @@
-<div align="center">
-<img width="128px" src="leap.png" alt="Leap" />
+hi! i'm a content creator<br />
+<img align="left" width="72px" src="leap.svg" alt="Leap" />
+meme expert<br />
+programmer<br />
+graphic designer<br />
 
-## Hi there 👋
-I'm Leap of Azzam, usually called as Leap. I'm a (meme) YouTuber and a hobby developer developing random stuff.
-
-</div>
-
-### <div align="center">Programming languages</div>
+## Programming languages
 I mostly develop in these programming languages
+- Zig
 - Rust
 - C/C++
 - Python
 - JavaScript
 
-### <div align="center">Projects I'm working on</div>
-- [FaruOS](https://github.com/leapofazzam123/faruos) - A simple operating system, made with stivale2 and limine
-- [XeptoBoot](https://github.com/leapofazzam123/xeptoboot) - A small 2-staged bootloader written in Zig
+## Projects I'm working on
+- [FaruOS](https://github.com/leap0x7b/faruos) - A simple operating system, cureently being [rewritten](https://github.com/leap0x7b/faruos/tree/rewrite-again).
+- [XeptoBoot](https://github.com/leap0x7b/xeptoboot) - A small 2-staged bootloader written in Zig
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapofazzam123&layout=compact)
-![Leap of Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leapofazzam123&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leap0x7b&layout=compact)
+![leap123's GitHub stats](https://github-readme-stats.vercel.app/api?username=leap0x7b&show_icons=true)
