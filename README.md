@@ -1,8 +1,4 @@
-hi! i'm a content creator<br />
-<img align="left" width="36px" height="48px" src="leap.svg" alt="leap123" />
-meme expert<br />
-programmer<br />
-graphic designer<br />
+<img src="banner.png" alt="hi! content creator, meme expert, programmer, and graphic designer" />
 
 ## Programming languages
 I mostly develop in these programming languages
