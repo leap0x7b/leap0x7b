@@ -1,5 +1,5 @@
 hi! i'm a content creator<br />
-<img align="left" height="48px" src="leap.svg" alt="Leap" />
+<img align="left" width="36px" height="48px" src="leap.svg" alt="leap123" />
 meme expert<br />
 programmer<br />
 graphic designer<br />
