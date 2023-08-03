@@ -9,8 +9,9 @@ I mostly develop in these programming languages
 - JavaScript
 
 ## Projects I'm working on
-- [FaruOS](https://github.com/leap0x7b/faruos) - A simple operating system, cureently being [rewritten](https://github.com/leap0x7b/faruos/tree/rewrite-again).
-- [XeptoBoot](https://github.com/leap0x7b/xeptoboot) - A small 2-staged bootloader written in Zig
+- [Kora](https://github.com/kora-org/kora) - A modern operating system built for the modern era.
+  - [Headstart](https://github.com/leap0x7b/xeptoboot) - A UEFI bootloader for Kora.
+- [triaOS](https://github.com/leap0x7b/triaos) - A classic operating system inspired by old Mac OS and Windows 9x.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leap0x7b&layout=compact)
 ![leap123's GitHub stats](https://github-readme-stats.vercel.app/api?username=leap0x7b&show_icons=true)
